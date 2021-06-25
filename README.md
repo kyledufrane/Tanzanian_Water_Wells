@@ -126,11 +126,11 @@ As seen above our total rows equal that of the normal dataframe so we can conclu
 
 The Id columns and date_recorded are considered admin columns and will not have much predictive power in our model therefore we can drop these columns. 
 
-![](saved_objects/non_funct_region)
+![](saved_objects/non_funct_region.png)
 
-![](saved_objects/non_water_quality)
+![](saved_objects/non_water_quality.png)
 
-![](saved_objects/source_bar)
+![](saved_objects/source_bar.png)
 
 ![](saved_objects/money_bar.png)
 
