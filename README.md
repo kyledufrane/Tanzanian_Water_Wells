@@ -79,6 +79,6 @@ Since our stakeholder is focused on servicing the water well's we began looking 
 
 ![functional_well](saved_objects/region_functional.png)
 
-![non_functional_well](saved_objects/region_non functional.png)
+![non_functional_well](saved_objects/non_funct_region.png)
 
 
