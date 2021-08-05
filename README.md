@@ -2,7 +2,7 @@
 
 #### Authors: Kyle Dufrane and Brad Horn
 
-![waterwell]('images/waterwell.jpeg')
+![waterwell](images/waterwell.jpeg)
 
 ## Business Understanding
 
@@ -77,8 +77,8 @@ We decided to move forward with two modeling approaches to see if either has a l
 
 Since our stakeholder is focused on servicing the water well's we began looking into functional & non-functional wells by region so they have a better understanding of where they will be allocating their resources. We created a feature which represents the percentage of funcional or non-functional and plotted these values, seen below.
 
-![functional_well]('saved_objects/region_functional.png')
+![functional_well](saved_objects/region_functional.png)
 
-![non_functional_well]('saved_objects/region_non functional.png')
+![non_functional_well](saved_objects/region_non functional.png)
 
 
