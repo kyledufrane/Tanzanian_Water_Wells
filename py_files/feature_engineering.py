@@ -45,7 +45,6 @@ def knn_impute(df, test_df, col, nan_val_replacements, n_neighbors):
     df[col] = pd.DataFrame(imputed)[2]
     test_df[col] = pd.DataFrame(test_imputed)[2]
 
-    return df, test_df
 
 def cat_label_pct(df, test_df, col):
 
@@ -64,6 +63,5 @@ def cat_label_pct(df, test_df, col):
 
     df = pd.merge(df, temp_df, on=col)
     test_df = pd.merge(test_df, temp_df, on=col, how='left')
-
 
     return df, test_df
